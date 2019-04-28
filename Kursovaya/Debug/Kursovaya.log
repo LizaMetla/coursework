@@ -4,12 +4,13 @@ c:\users\elizavetametla\source\repos\kursovaya\kursovaya\kursovaya.cpp(1): warni
 c:\users\elizavetametla\source\repos\kursovaya\kursovaya\kursovaya.cpp(1): warning C4603: _CRT_SECURE_NO_WARNINGS: макрос не определен или определение изменилось после использования предкомпилированного заголовка
   c:\users\elizavetametla\source\repos\kursovaya\kursovaya\kursovaya.cpp(1): note: Добавление макроопределения в предкомпилированный заголовок вместо определения его здесь
   c:\users\elizavetametla\source\repos\kursovaya\kursovaya\kursovaya.cpp(6): note: использование предварительно скомпилированного заголовка
-c:\users\elizavetametla\source\repos\kursovaya\kursovaya\kursovaya.cpp(495): warning C4244: =: преобразование "wint_t" в "char", возможна потеря данных
-c:\users\elizavetametla\source\repos\kursovaya\kursovaya\kursovaya.cpp(947): warning C4101: id_in_shop: неиспользованная локальная переменная
-c:\users\elizavetametla\source\repos\kursovaya\kursovaya\kursovaya.cpp(1005): warning C4101: id_in_shop: неиспользованная локальная переменная
-c:\users\elizavetametla\source\repos\kursovaya\kursovaya\kursovaya.cpp(1359): warning C4473: "scanf_s": передано недостаточно аргументов для строки формата
-  c:\users\elizavetametla\source\repos\kursovaya\kursovaya\kursovaya.cpp(1359): note: заполнители и их параметры ожидают переменное число аргументов в количестве 2, но было предоставлено 1
-  c:\users\elizavetametla\source\repos\kursovaya\kursovaya\kursovaya.cpp(1359): note: отсутствующий вариативный аргумент "2" требуется для строки форматирования "%19s"
-  c:\users\elizavetametla\source\repos\kursovaya\kursovaya\kursovaya.cpp(1359): note: этот аргумент используется в качестве размера буфера
-c:\users\elizavetametla\source\repos\kursovaya\kursovaya\kursovaya.cpp(854): warning C4715: check_date: значение возвращается не при всех путях выполнения
+c:\users\elizavetametla\source\repos\kursovaya\kursovaya\kursovaya.cpp(497): warning C4244: =: преобразование "wint_t" в "char", возможна потеря данных
+c:\users\elizavetametla\source\repos\kursovaya\kursovaya\kursovaya.cpp(959): warning C4101: id_in_shop: неиспользованная локальная переменная
+c:\users\elizavetametla\source\repos\kursovaya\kursovaya\kursovaya.cpp(1029): warning C4101: id_in_shop: неиспользованная локальная переменная
+c:\users\elizavetametla\source\repos\kursovaya\kursovaya\kursovaya.cpp(1103): warning C4101: id_in_shop: неиспользованная локальная переменная
+c:\users\elizavetametla\source\repos\kursovaya\kursovaya\kursovaya.cpp(1518): warning C4473: "scanf_s": передано недостаточно аргументов для строки формата
+  c:\users\elizavetametla\source\repos\kursovaya\kursovaya\kursovaya.cpp(1518): note: заполнители и их параметры ожидают переменное число аргументов в количестве 2, но было предоставлено 1
+  c:\users\elizavetametla\source\repos\kursovaya\kursovaya\kursovaya.cpp(1518): note: отсутствующий вариативный аргумент "2" требуется для строки форматирования "%19s"
+  c:\users\elizavetametla\source\repos\kursovaya\kursovaya\kursovaya.cpp(1518): note: этот аргумент используется в качестве размера буфера
+c:\users\elizavetametla\source\repos\kursovaya\kursovaya\kursovaya.cpp(856): warning C4715: check_date: значение возвращается не при всех путях выполнения
   Kursovaya.vcxproj -> C:\Users\elizavetametla\source\repos\Kursovaya\Debug\Kursovaya.exe
