@@ -33,5 +33,6 @@
     <Text Include="..\product_in_stock.txt" />
     <Text Include="..\shops.txt" />
     <Text Include="..\product_in_order.txt" />
+    <Text Include="..\TEMP.txt" />
   </ItemGroup>
 </Project>

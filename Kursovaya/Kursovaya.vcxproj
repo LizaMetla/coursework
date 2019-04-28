@@ -167,6 +167,7 @@
     <Text Include="..\product_in_order.txt" />
     <Text Include="..\product_in_stock.txt" />
     <Text Include="..\shops.txt" />
+    <Text Include="..\TEMP.txt" />
     <Text Include="..\users_profile.txt.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
