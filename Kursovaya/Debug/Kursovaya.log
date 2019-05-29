@@ -15,41 +15,41 @@ c:\users\elizavetametla\source\repos\kursovaya\kursovaya\kursovaya.cpp(1192): wa
 c:\users\elizavetametla\source\repos\kursovaya\kursovaya\kursovaya.cpp(1639): warning C4101: id_in_shop: неиспользованная локальная переменная
 c:\users\elizavetametla\source\repos\kursovaya\kursovaya\kursovaya.cpp(1710): warning C4101: id_in_shop: неиспользованная локальная переменная
 c:\users\elizavetametla\source\repos\kursovaya\kursovaya\kursovaya.cpp(1784): warning C4101: id_in_shop: неиспользованная локальная переменная
-c:\users\elizavetametla\source\repos\kursovaya\kursovaya\kursovaya.cpp(2677): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\elizavetametla\source\repos\kursovaya\kursovaya\kursovaya.cpp(2678): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\elizavetametla\source\repos\kursovaya\kursovaya\kursovaya.cpp(2730): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\elizavetametla\source\repos\kursovaya\kursovaya\kursovaya.cpp(2748): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\elizavetametla\source\repos\kursovaya\kursovaya\kursovaya.cpp(3011): warning C4101: id_in_shop: неиспользованная локальная переменная
-c:\users\elizavetametla\source\repos\kursovaya\kursovaya\kursovaya.cpp(3012): warning C4101: t: неиспользованная локальная переменная
-c:\users\elizavetametla\source\repos\kursovaya\kursovaya\kursovaya.cpp(3009): warning C4101: num: неиспользованная локальная переменная
-c:\users\elizavetametla\source\repos\kursovaya\kursovaya\kursovaya.cpp(3064): warning C4101: id_in_shop: неиспользованная локальная переменная
-c:\users\elizavetametla\source\repos\kursovaya\kursovaya\kursovaya.cpp(3065): warning C4101: t: неиспользованная локальная переменная
-c:\users\elizavetametla\source\repos\kursovaya\kursovaya\kursovaya.cpp(3062): warning C4101: num: неиспользованная локальная переменная
-c:\users\elizavetametla\source\repos\kursovaya\kursovaya\kursovaya.cpp(3110): warning C4101: id_in_shop: неиспользованная локальная переменная
-c:\users\elizavetametla\source\repos\kursovaya\kursovaya\kursovaya.cpp(3111): warning C4101: t: неиспользованная локальная переменная
-c:\users\elizavetametla\source\repos\kursovaya\kursovaya\kursovaya.cpp(3108): warning C4101: num: неиспользованная локальная переменная
-c:\users\elizavetametla\source\repos\kursovaya\kursovaya\kursovaya.cpp(3174): warning C4101: id_in_shop: неиспользованная локальная переменная
-c:\users\elizavetametla\source\repos\kursovaya\kursovaya\kursovaya.cpp(3175): warning C4101: t: неиспользованная локальная переменная
-c:\users\elizavetametla\source\repos\kursovaya\kursovaya\kursovaya.cpp(3172): warning C4101: num: неиспользованная локальная переменная
-c:\users\elizavetametla\source\repos\kursovaya\kursovaya\kursovaya.cpp(3236): warning C4101: id_in_shop: неиспользованная локальная переменная
-c:\users\elizavetametla\source\repos\kursovaya\kursovaya\kursovaya.cpp(3237): warning C4101: t: неиспользованная локальная переменная
-c:\users\elizavetametla\source\repos\kursovaya\kursovaya\kursovaya.cpp(3234): warning C4101: num: неиспользованная локальная переменная
-c:\users\elizavetametla\source\repos\kursovaya\kursovaya\kursovaya.cpp(3287): warning C4101: id_in_shop: неиспользованная локальная переменная
-c:\users\elizavetametla\source\repos\kursovaya\kursovaya\kursovaya.cpp(3288): warning C4101: t: неиспользованная локальная переменная
-c:\users\elizavetametla\source\repos\kursovaya\kursovaya\kursovaya.cpp(3285): warning C4101: num: неиспользованная локальная переменная
-c:\users\elizavetametla\source\repos\kursovaya\kursovaya\kursovaya.cpp(3342): warning C4101: id_in_shop: неиспользованная локальная переменная
-c:\users\elizavetametla\source\repos\kursovaya\kursovaya\kursovaya.cpp(3343): warning C4101: t: неиспользованная локальная переменная
-c:\users\elizavetametla\source\repos\kursovaya\kursovaya\kursovaya.cpp(3340): warning C4101: num: неиспользованная локальная переменная
-c:\users\elizavetametla\source\repos\kursovaya\kursovaya\kursovaya.cpp(3397): warning C4101: id_in_shop: неиспользованная локальная переменная
-c:\users\elizavetametla\source\repos\kursovaya\kursovaya\kursovaya.cpp(3398): warning C4101: t: неиспользованная локальная переменная
-c:\users\elizavetametla\source\repos\kursovaya\kursovaya\kursovaya.cpp(3395): warning C4101: num: неиспользованная локальная переменная
-c:\users\elizavetametla\source\repos\kursovaya\kursovaya\kursovaya.cpp(3538): warning C4101: id_in_shop: неиспользованная локальная переменная
-c:\users\elizavetametla\source\repos\kursovaya\kursovaya\kursovaya.cpp(3541): warning C4101: t: неиспользованная локальная переменная
-c:\users\elizavetametla\source\repos\kursovaya\kursovaya\kursovaya.cpp(3624): warning C4101: id_in_shop: неиспользованная локальная переменная
-c:\users\elizavetametla\source\repos\kursovaya\kursovaya\kursovaya.cpp(3628): warning C4101: t: неиспользованная локальная переменная
-c:\users\elizavetametla\source\repos\kursovaya\kursovaya\kursovaya.cpp(3829): warning C4101: id_in_shop: неиспользованная локальная переменная
-c:\users\elizavetametla\source\repos\kursovaya\kursovaya\kursovaya.cpp(3833): warning C4101: t: неиспользованная локальная переменная
-c:\users\elizavetametla\source\repos\kursovaya\kursovaya\kursovaya.cpp(3960): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\elizavetametla\source\repos\kursovaya\kursovaya\kursovaya.cpp(4006): warning C4101: num: неиспользованная локальная переменная
+c:\users\elizavetametla\source\repos\kursovaya\kursovaya\kursovaya.cpp(2768): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\elizavetametla\source\repos\kursovaya\kursovaya\kursovaya.cpp(2769): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\elizavetametla\source\repos\kursovaya\kursovaya\kursovaya.cpp(2821): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\elizavetametla\source\repos\kursovaya\kursovaya\kursovaya.cpp(2839): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\elizavetametla\source\repos\kursovaya\kursovaya\kursovaya.cpp(3102): warning C4101: id_in_shop: неиспользованная локальная переменная
+c:\users\elizavetametla\source\repos\kursovaya\kursovaya\kursovaya.cpp(3103): warning C4101: t: неиспользованная локальная переменная
+c:\users\elizavetametla\source\repos\kursovaya\kursovaya\kursovaya.cpp(3100): warning C4101: num: неиспользованная локальная переменная
+c:\users\elizavetametla\source\repos\kursovaya\kursovaya\kursovaya.cpp(3155): warning C4101: id_in_shop: неиспользованная локальная переменная
+c:\users\elizavetametla\source\repos\kursovaya\kursovaya\kursovaya.cpp(3156): warning C4101: t: неиспользованная локальная переменная
+c:\users\elizavetametla\source\repos\kursovaya\kursovaya\kursovaya.cpp(3153): warning C4101: num: неиспользованная локальная переменная
+c:\users\elizavetametla\source\repos\kursovaya\kursovaya\kursovaya.cpp(3201): warning C4101: id_in_shop: неиспользованная локальная переменная
+c:\users\elizavetametla\source\repos\kursovaya\kursovaya\kursovaya.cpp(3202): warning C4101: t: неиспользованная локальная переменная
+c:\users\elizavetametla\source\repos\kursovaya\kursovaya\kursovaya.cpp(3199): warning C4101: num: неиспользованная локальная переменная
+c:\users\elizavetametla\source\repos\kursovaya\kursovaya\kursovaya.cpp(3265): warning C4101: id_in_shop: неиспользованная локальная переменная
+c:\users\elizavetametla\source\repos\kursovaya\kursovaya\kursovaya.cpp(3266): warning C4101: t: неиспользованная локальная переменная
+c:\users\elizavetametla\source\repos\kursovaya\kursovaya\kursovaya.cpp(3263): warning C4101: num: неиспользованная локальная переменная
+c:\users\elizavetametla\source\repos\kursovaya\kursovaya\kursovaya.cpp(3327): warning C4101: id_in_shop: неиспользованная локальная переменная
+c:\users\elizavetametla\source\repos\kursovaya\kursovaya\kursovaya.cpp(3328): warning C4101: t: неиспользованная локальная переменная
+c:\users\elizavetametla\source\repos\kursovaya\kursovaya\kursovaya.cpp(3325): warning C4101: num: неиспользованная локальная переменная
+c:\users\elizavetametla\source\repos\kursovaya\kursovaya\kursovaya.cpp(3378): warning C4101: id_in_shop: неиспользованная локальная переменная
+c:\users\elizavetametla\source\repos\kursovaya\kursovaya\kursovaya.cpp(3379): warning C4101: t: неиспользованная локальная переменная
+c:\users\elizavetametla\source\repos\kursovaya\kursovaya\kursovaya.cpp(3376): warning C4101: num: неиспользованная локальная переменная
+c:\users\elizavetametla\source\repos\kursovaya\kursovaya\kursovaya.cpp(3433): warning C4101: id_in_shop: неиспользованная локальная переменная
+c:\users\elizavetametla\source\repos\kursovaya\kursovaya\kursovaya.cpp(3434): warning C4101: t: неиспользованная локальная переменная
+c:\users\elizavetametla\source\repos\kursovaya\kursovaya\kursovaya.cpp(3431): warning C4101: num: неиспользованная локальная переменная
+c:\users\elizavetametla\source\repos\kursovaya\kursovaya\kursovaya.cpp(3488): warning C4101: id_in_shop: неиспользованная локальная переменная
+c:\users\elizavetametla\source\repos\kursovaya\kursovaya\kursovaya.cpp(3489): warning C4101: t: неиспользованная локальная переменная
+c:\users\elizavetametla\source\repos\kursovaya\kursovaya\kursovaya.cpp(3486): warning C4101: num: неиспользованная локальная переменная
+c:\users\elizavetametla\source\repos\kursovaya\kursovaya\kursovaya.cpp(3629): warning C4101: id_in_shop: неиспользованная локальная переменная
+c:\users\elizavetametla\source\repos\kursovaya\kursovaya\kursovaya.cpp(3632): warning C4101: t: неиспользованная локальная переменная
+c:\users\elizavetametla\source\repos\kursovaya\kursovaya\kursovaya.cpp(3715): warning C4101: id_in_shop: неиспользованная локальная переменная
+c:\users\elizavetametla\source\repos\kursovaya\kursovaya\kursovaya.cpp(3719): warning C4101: t: неиспользованная локальная переменная
+c:\users\elizavetametla\source\repos\kursovaya\kursovaya\kursovaya.cpp(3920): warning C4101: id_in_shop: неиспользованная локальная переменная
+c:\users\elizavetametla\source\repos\kursovaya\kursovaya\kursovaya.cpp(3924): warning C4101: t: неиспользованная локальная переменная
+c:\users\elizavetametla\source\repos\kursovaya\kursovaya\kursovaya.cpp(4051): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\elizavetametla\source\repos\kursovaya\kursovaya\kursovaya.cpp(4097): warning C4101: num: неиспользованная локальная переменная
 c:\users\elizavetametla\source\repos\kursovaya\kursovaya\kursovaya.cpp(1412): warning C4715: check_date: значение возвращается не при всех путях выполнения
   Kursovaya.vcxproj -> C:\Users\elizavetametla\source\repos\Kursovaya\Debug\Kursovaya.exe
